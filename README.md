@@ -44,7 +44,7 @@ Instructions:
 
 - List all devices in your project. Note their voltage (V) and current (A).
 
-- All your components should be suitable for the **same Voltage** (explaied above), but may very in current draw.
+- All your components should be suitable for the **same Voltage** (explained above), but may very in current draw.
 
 - Sum the currents(A) for all devices sharing a power supply. Check if your power supply can provide this total current. If not, either choose a higher-rated power supply or split your project across two or more power supplies.
 
