@@ -36,7 +36,7 @@ Conversely, a 12 V device will not work properly if powered from a 5 V suppl
 
 
 ----
-### Calculating Power Consumption
+### Calculating Current Consumption
 
 Before powering any project, you need to know how much energy your devices will draw. This ensures your components, wires, and power supply operate safely.
 
@@ -47,6 +47,8 @@ Instructions:
 - All your components should be suitable for the **same Voltage** (explaied above), but may very in current draw.
 
 - Sum the currents(A) for all devices sharing a power supply. Check if your power supply can provide this total current. If not, either choose a higher-rated power supply or split your project across two or more power supplies.
+
+- If you don't know the current draw of some of your components, you can use a multimeter.
 
 - Make sure the wire can safely carry the current. Too thin wires can overheat or melt. [Instructions here] (https://github.com/kingston-hackSpace/About_wires). 
 
