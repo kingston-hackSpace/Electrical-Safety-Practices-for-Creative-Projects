@@ -48,7 +48,7 @@ Instructions:
 
 - Sum the currents(A) for all devices sharing a power supply. Check if your power supply can provide this total current. If not, either choose a higher-rated power supply or split your project across two or more power supplies.
 
-- Make sure the wire can safely carry the current. Too thin wires can overheat or melt. [Instructions here] (link) . 
+- Make sure the wire can safely carry the current. Too thin wires can overheat or melt. [Instructions here] (https://github.com/kingston-hackSpace/About_wires). 
 
 - Check components. Ensure that the equipment you are using (connectors, switches, and terminals) are rated for the current you’ll draw.
 
