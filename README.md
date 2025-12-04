@@ -54,4 +54,14 @@ Instructions:
 
 - Always use a fuse rated slightly above your current draw.
 
- 
+
+----
+### Safe Use of Extension Leads & Multi-Adaptors
+
+- Most UK extension leads are rated 13 A at 230 V
+
+- Never exceed the total current rating of the lead
+
+- Avoid lead chains: they can cause overheats. 
+
+- Damaged leads must not be used.
