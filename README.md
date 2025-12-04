@@ -48,7 +48,7 @@ Instructions:
 
 - Sum the currents(A) for all devices sharing a power supply. Check if your power supply can provide this total current. If not, either choose a higher-rated power supply or split your project across two or more power supplies.
 
-- If you don't know the current draw of some of your components, you can use a multimeter.
+- If you don't know the current draw of some of your components, you can use a [multimeter](https://github.com/kingston-hackSpace/Multimeter/blob/main/README.md)
 
 - Make sure the wire can safely carry the current. Too thin wires can overheat or melt. [Instructions here] (https://github.com/kingston-hackSpace/About_wires). 
 
